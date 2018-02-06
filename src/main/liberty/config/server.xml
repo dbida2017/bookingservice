@@ -5,7 +5,7 @@
     <feature>microProfile-1.0</feature>
     <feature>ejbLite-3.2</feature>
   </featureManager>
-
+    <feature>logstashCollector-1.0</feature>
   <!-- To access this server from a remote client add a host attribute to the following element, e.g. host="*" -->
   <httpEndpoint id="defaultHttpEndpoint"
                   host="*"
